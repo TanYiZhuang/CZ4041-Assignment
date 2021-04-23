@@ -1,4 +1,4 @@
-# CZ4041-Assignment
+# CZ4041 Group Assignment
 -Test_data is for converting the dataset into the pickle files that will be used in the actual training of the model as it is faster than having to process the dataset everytime
 Replace the trainRoot and testRoot with the path of the datasets, and also the path in line 50 and 54 for the save location of the pickle files.
 
